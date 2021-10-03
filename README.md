@@ -8,4 +8,5 @@
  
  I just moved to LA about a month ago, but have really enjoyed the proximity to the beach where I go for runs pretty frequently and join a weekly volleyball meetup. I also enjoy hiking, eating street food, practicing french, and doing the NYT crossword. Oh I also have a cat, Charlie: 
  
+ ![Image of Charlie]()
  
